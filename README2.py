@@ -7,3 +7,4 @@ kak deneme2 branch
 after pull on branch2
 =======
 >>>>>>> main
+after resolved

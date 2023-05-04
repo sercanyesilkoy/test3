@@ -1,1 +1,1 @@
-4mayislabuborumu
+print("4mayis")
